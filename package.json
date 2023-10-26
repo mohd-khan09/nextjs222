@@ -29,7 +29,8 @@
     "typescript": "^5"
   },
   "ampt": {
-    "app": "nextjs",
-    "runtime": "nodejs18"
+    "app": "nextjs222",
+    "runtime": "nodejs18",
+    "org": "mohdkhanmk99590373"
   }
 }
