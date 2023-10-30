@@ -13,6 +13,7 @@
     "@ampt/data": "^1",
     "@ampt/nextjs": "^2",
     "@ampt/sdk": "^1",
+    "amazon-cognito-identity-js": "^6.3.6",
     "next": "13.5.4",
     "react": "^18",
     "react-dom": "^18"
@@ -31,6 +32,9 @@
   "ampt": {
     "app": "nextjs222",
     "runtime": "nodejs18",
-    "org": "mohdkhanmk99590373"
-  }
+    "org": "mohammedkhan"
+  },
+  "files": [
+    "*"
+  ]
 }
